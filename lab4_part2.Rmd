@@ -38,3 +38,18 @@ ggplotly(iris_graph)
 
 ```
 
+
+### Now iI'll make an interactive table with DT
+Use function datatable() to create interactive datatable
+
+```{r}
+
+datatable(msleep)
+
+```
+
+
+
+
+
+
